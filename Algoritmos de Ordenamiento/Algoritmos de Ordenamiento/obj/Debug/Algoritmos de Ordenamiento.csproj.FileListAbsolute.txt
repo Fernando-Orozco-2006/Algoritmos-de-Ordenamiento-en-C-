@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\obj\Debug\Algoritmos de Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\obj\Debug\Algoritmos de Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\bin\Debug\Algoritmos de Ordenamiento.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\bin\Debug\Algoritmos de Ordenamiento.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\bin\Debug\Algoritmos de Ordenamiento.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\obj\Debug\Algoritmos de Ordenamiento.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Examen Practico\Algoritmos de Ordenamiento\Algoritmos de Ordenamiento\obj\Debug\Algoritmos de Ordenamiento.pdb
